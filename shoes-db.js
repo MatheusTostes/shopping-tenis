@@ -734,7 +734,7 @@ const shoesList = [
     mark: 'caterpillar',
     image: './shoes/81.jpeg',
     alt: './shows/81.jpeg',
-    price: 120.00,
+    price: 100.00,
     method: 'avista',
   }, 
   {
@@ -752,7 +752,7 @@ const shoesList = [
     mark: 'caterpillar',
     image: './shoes/83.jpeg',
     alt: './shows/83.jpeg',
-    price: 120.00,
+    price: 100.00,
     method: 'avista',
   }, 
   {
@@ -761,7 +761,7 @@ const shoesList = [
     mark: 'caterpillar',
     image: './shoes/84.jpeg',
     alt: './shows/84.jpeg',
-    price: 120.00,
+    price: 100.00,
     method: 'avista',
   }, 
   {
@@ -779,7 +779,7 @@ const shoesList = [
     mark: 'caterpillar',
     image: './shoes/86.jpeg',
     alt: './shows/86.jpeg',
-    price: 120.00,
+    price: 100.00,
     method: 'avista',
   }, 
   {
@@ -788,7 +788,7 @@ const shoesList = [
     mark: 'caterpillar',
     image: './shoes/87.jpeg',
     alt: './shows/87.jpeg',
-    price: 120.00,
+    price: 100.00,
     method: 'avista',
   }, 
   {
@@ -842,7 +842,7 @@ const shoesList = [
     mark: 'caterpillar',
     image: './shoes/93.jpeg',
     alt: './shows/93.jpeg',
-    price: 120.00,
+    price: 100.00,
     method: 'avista',
   }, 
   {
