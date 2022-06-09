@@ -239,7 +239,7 @@ footer hr {
 }
 
 footer .info {
-  width: 100%;
+  width: 50vw;
   display: flex;
   justify-content: space-evenly;
 }
@@ -394,5 +394,11 @@ nav li:hover {
     color: rgba(0, 0, 0, 0.87);
     background-color: rgba(249, 249, 249, 0.438);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0);
+  }
+}
+
+@media (max-width: 790px) {
+  footer .info {
+    width: 100%;
   }
 }

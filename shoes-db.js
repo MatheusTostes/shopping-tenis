@@ -74,7 +74,7 @@ const shoesList = [
   {
     id: 8,
     name: 8,
-    mark: 'converse',
+    mark: 'all-star',
     image: './shoes/8.jpeg',
     alt: './shows/8.jpeg',
     price: 120.00,
@@ -659,7 +659,7 @@ const shoesList = [
   {
     id: 73,
     name: 73,
-    mark: 'converse',
+    mark: 'all-star',
     image: './shoes/73.jpeg',
     alt: './shows/73.jpeg',
     price: 120.00,
@@ -677,7 +677,7 @@ const shoesList = [
   {
     id: 75,
     name: 75,
-    mark: 'converse',
+    mark: 'all-star',
     image: './shoes/75.jpeg',
     alt: './shows/75.jpeg',
     price: 120.00,
@@ -686,7 +686,7 @@ const shoesList = [
   {
     id: 76,
     name: 76,
-    mark: 'converse',
+    mark: 'all-star',
     image: './shoes/76.jpeg',
     alt: './shows/76.jpeg',
     price: 120.00,

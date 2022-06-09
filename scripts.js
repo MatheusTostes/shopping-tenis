@@ -1,7 +1,7 @@
 const productsSectionEl = document.getElementsByClassName('products')[0]
 const filtersUlEl = document.getElementsByClassName('filters')[0]
 let itemsList = ''
-const marks = ['todos', 'adidas', 'nike', 'olympikus', 'reserva', 'caterpillar', 'converse', 'fila', 'lacoste', 'mizuno', 'outros']
+const marks = ['todos', 'adidas', 'nike', 'olympikus', 'reserva', 'caterpillar', 'all-star', 'fila', 'lacoste', 'mizuno', 'outros']
 let filtersList = ''
 
 const populateNav = () => {
@@ -9,7 +9,7 @@ const populateNav = () => {
     const filter = 
     `
     <li onclick=filterMark("${mark}")>
-      ${mark}
+      ${mark.replace('-', ' ')}
     </li>
     `
     filtersList += filter
@@ -19,6 +19,8 @@ const populateNav = () => {
 }
 
 const filterMark = (mark) => {
+  console.log(mark);
+
   productsSectionEl.innerHTML = ''
   let itemsList = ''
 
@@ -38,7 +40,7 @@ const filterMark = (mark) => {
             </div>
             <div class="product-data">
               <p class="product-name">cod: ${shoes.id}</p>
-              <p class="product-class">${shoes.mark}</p>
+              <p class="product-class">${shoes.mark.replace('-', ' ')}</p>
             </div>
             <p class="product-buy-method">${shoes.method}</p>
             <p class="product-discount">R$ ${(shoes.price+30).toFixed(2)}</p>
