@@ -10,8 +10,7 @@ const populateSite = () => {
       const dynamicLink = `https://api.whatsapp.com/send?phone=5551993106007&text=Ol%C3%A1,%20tenho%20interesse%20no%20produto%20de%20id:%20${shoes.id}.%20Imagem:%20https://shopping-tenis.vercel.app/shoes/${shoes.id}.jpeg`
       const item = 
       `
-      <a href=${dynamicLink} target='_blank'>
-        <div class="product">
+      <a class="product" href=${dynamicLink} target='_blank'>
           <div class="product-img">
             <img src="./shoes/${shoes.id}.jpeg" alt=""/>
           </div>
@@ -23,7 +22,6 @@ const populateSite = () => {
           <p class="product-discount">R$ ${(shoes.price+30).toFixed(2)}</p>
           <p class="product-price">R$ ${shoes.price.toFixed(2)}</p>
           <button class="product-buy-btn" onclick='createWhatsLink(${shoes.id})'>COMPRAR</button>
-        </div>
       </a>
       `
   
