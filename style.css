@@ -223,6 +223,7 @@ footer .info {
 }
 
 .method {
+  font-size: 0.9em;
   display: flex;
   gap: 0.5em;
 }
