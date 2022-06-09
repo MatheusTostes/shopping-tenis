@@ -6,7 +6,7 @@ const shoesList = [
     image: './shoes/0.jpeg',
     alt: './shows/0.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 1,
@@ -15,7 +15,7 @@ const shoesList = [
     image: './shoes/1.jpeg',
     alt: './shows/1.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 2,
@@ -24,7 +24,7 @@ const shoesList = [
     image: './shoes/2.jpeg',
     alt: './shows/2.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 3,
@@ -33,7 +33,7 @@ const shoesList = [
     image: './shoes/3.jpeg',
     alt: './shows/3.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 4,
@@ -42,7 +42,7 @@ const shoesList = [
     image: './shoes/4.jpeg',
     alt: './shows/4.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 5,
@@ -51,7 +51,7 @@ const shoesList = [
     image: './shoes/5.jpeg',
     alt: './shows/5.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 6,
@@ -60,7 +60,7 @@ const shoesList = [
     image: './shoes/6.jpeg',
     alt: './shows/6.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 7,
@@ -69,7 +69,7 @@ const shoesList = [
     image: './shoes/7.jpeg',
     alt: './shows/7.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 8,
@@ -78,7 +78,7 @@ const shoesList = [
     image: './shoes/8.jpeg',
     alt: './shows/8.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 9,
@@ -87,7 +87,7 @@ const shoesList = [
     image: './shoes/9.jpeg',
     alt: './shows/9.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 10,
@@ -96,7 +96,7 @@ const shoesList = [
     image: './shoes/10.jpeg',
     alt: './shows/10.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 11,
@@ -105,7 +105,7 @@ const shoesList = [
     image: './shoes/11.jpeg',
     alt: './shows/11.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 12,
@@ -114,7 +114,7 @@ const shoesList = [
     image: './shoes/12.jpeg',
     alt: './shows/12.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 13,
@@ -123,7 +123,7 @@ const shoesList = [
     image: './shoes/13.jpeg',
     alt: './shows/13.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 14,
@@ -132,7 +132,7 @@ const shoesList = [
     image: './shoes/14.jpeg',
     alt: './shows/14.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 15,
@@ -141,7 +141,7 @@ const shoesList = [
     image: './shoes/15.jpeg',
     alt: './shows/15.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 16,
@@ -150,7 +150,7 @@ const shoesList = [
     image: './shoes/16.jpeg',
     alt: './shows/16.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 17,
@@ -159,7 +159,7 @@ const shoesList = [
     image: './shoes/17.jpeg',
     alt: './shows/17.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 18,
@@ -168,7 +168,7 @@ const shoesList = [
     image: './shoes/18.jpeg',
     alt: './shows/18.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 19,
@@ -177,7 +177,7 @@ const shoesList = [
     image: './shoes/19.jpeg',
     alt: './shows/19.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 20,
@@ -186,7 +186,7 @@ const shoesList = [
     image: './shoes/20.jpeg',
     alt: './shows/20.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 21,
@@ -195,7 +195,7 @@ const shoesList = [
     image: './shoes/21.jpeg',
     alt: './shows/21.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 22,
@@ -204,7 +204,7 @@ const shoesList = [
     image: './shoes/22.jpeg',
     alt: './shows/22.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 23,
@@ -213,7 +213,7 @@ const shoesList = [
     image: './shoes/23.jpeg',
     alt: './shows/23.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 24,
@@ -222,7 +222,7 @@ const shoesList = [
     image: './shoes/24.jpeg',
     alt: './shows/24.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 25,
@@ -231,7 +231,7 @@ const shoesList = [
     image: './shoes/25.jpeg',
     alt: './shows/25.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 26,
@@ -240,7 +240,7 @@ const shoesList = [
     image: './shoes/26.jpeg',
     alt: './shows/26.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 27,
@@ -249,7 +249,7 @@ const shoesList = [
     image: './shoes/27.jpeg',
     alt: './shows/27.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 28,
@@ -258,7 +258,7 @@ const shoesList = [
     image: './shoes/28.jpeg',
     alt: './shows/28.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 29,
@@ -267,7 +267,7 @@ const shoesList = [
     image: './shoes/29.jpeg',
     alt: './shows/29.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 30,
@@ -276,7 +276,7 @@ const shoesList = [
     image: './shoes/30.jpeg',
     alt: './shows/30.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 31,
@@ -285,7 +285,7 @@ const shoesList = [
     image: './shoes/31.jpeg',
     alt: './shows/31.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 32,
@@ -294,7 +294,7 @@ const shoesList = [
     image: './shoes/32.jpeg',
     alt: './shows/32.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 33,
@@ -303,7 +303,7 @@ const shoesList = [
     image: './shoes/33.jpeg',
     alt: './shows/33.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 34,
@@ -312,7 +312,7 @@ const shoesList = [
     image: './shoes/34.jpeg',
     alt: './shows/34.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 35,
@@ -321,7 +321,7 @@ const shoesList = [
     image: './shoes/35.jpeg',
     alt: './shows/35.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 36,
@@ -330,7 +330,7 @@ const shoesList = [
     image: './shoes/36.jpeg',
     alt: './shows/36.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 37,
@@ -339,7 +339,7 @@ const shoesList = [
     image: './shoes/37.jpeg',
     alt: './shows/37.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 38,
@@ -348,7 +348,7 @@ const shoesList = [
     image: './shoes/38.jpeg',
     alt: './shows/38.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 39,
@@ -357,7 +357,7 @@ const shoesList = [
     image: './shoes/39.jpeg',
     alt: './shows/39.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 40,
@@ -366,7 +366,7 @@ const shoesList = [
     image: './shoes/40.jpeg',
     alt: './shows/40.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 41,
@@ -375,7 +375,7 @@ const shoesList = [
     image: './shoes/41.jpeg',
     alt: './shows/41.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 42,
@@ -384,7 +384,7 @@ const shoesList = [
     image: './shoes/42.jpeg',
     alt: './shows/42.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 43,
@@ -393,7 +393,7 @@ const shoesList = [
     image: './shoes/43.jpeg',
     alt: './shows/43.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 44,
@@ -402,7 +402,7 @@ const shoesList = [
     image: './shoes/44.jpeg',
     alt: './shows/44.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 45,
@@ -411,7 +411,7 @@ const shoesList = [
     image: './shoes/45.jpeg',
     alt: './shows/45.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 46,
@@ -420,7 +420,7 @@ const shoesList = [
     image: './shoes/46.jpeg',
     alt: './shows/46.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 47,
@@ -429,7 +429,7 @@ const shoesList = [
     image: './shoes/47.jpeg',
     alt: './shows/47.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 48,
@@ -438,7 +438,7 @@ const shoesList = [
     image: './shoes/48.jpeg',
     alt: './shows/48.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 49,
@@ -447,7 +447,7 @@ const shoesList = [
     image: './shoes/49.jpeg',
     alt: './shows/49.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 50,
@@ -456,7 +456,7 @@ const shoesList = [
     image: './shoes/50.jpeg',
     alt: './shows/50.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 51,
@@ -465,7 +465,7 @@ const shoesList = [
     image: './shoes/51.jpeg',
     alt: './shows/51.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 52,
@@ -474,7 +474,7 @@ const shoesList = [
     image: './shoes/52.jpeg',
     alt: './shows/52.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 53,
@@ -483,7 +483,7 @@ const shoesList = [
     image: './shoes/53.jpeg',
     alt: './shows/53.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 54,
@@ -492,7 +492,7 @@ const shoesList = [
     image: './shoes/54.jpeg',
     alt: './shows/54.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 55,
@@ -501,7 +501,7 @@ const shoesList = [
     image: './shoes/55.jpeg',
     alt: './shows/55.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 56,
@@ -510,7 +510,7 @@ const shoesList = [
     image: './shoes/56.jpeg',
     alt: './shows/56.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 57,
@@ -519,7 +519,7 @@ const shoesList = [
     image: './shoes/57.jpeg',
     alt: './shows/57.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 58,
@@ -528,7 +528,7 @@ const shoesList = [
     image: './shoes/58.jpeg',
     alt: './shows/58.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 59,
@@ -537,7 +537,7 @@ const shoesList = [
     image: './shoes/59.jpeg',
     alt: './shows/59.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 60,
@@ -546,7 +546,7 @@ const shoesList = [
     image: './shoes/60.jpeg',
     alt: './shows/60.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 61,
@@ -555,7 +555,7 @@ const shoesList = [
     image: './shoes/61.jpeg',
     alt: './shows/61.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 62,
@@ -564,7 +564,7 @@ const shoesList = [
     image: './shoes/62.jpeg',
     alt: './shows/62.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 63,
@@ -573,7 +573,7 @@ const shoesList = [
     image: './shoes/63.jpeg',
     alt: './shows/63.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 64,
@@ -582,7 +582,7 @@ const shoesList = [
     image: './shoes/64.jpeg',
     alt: './shows/64.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 65,
@@ -591,7 +591,7 @@ const shoesList = [
     image: './shoes/65.jpeg',
     alt: './shows/65.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 66,
@@ -600,7 +600,7 @@ const shoesList = [
     image: './shoes/66.jpeg',
     alt: './shows/66.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 67,
@@ -609,7 +609,7 @@ const shoesList = [
     image: './shoes/67.jpeg',
     alt: './shows/67.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 68,
@@ -618,7 +618,7 @@ const shoesList = [
     image: './shoes/68.jpeg',
     alt: './shows/68.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 69,
@@ -627,7 +627,7 @@ const shoesList = [
     image: './shoes/69.jpeg',
     alt: './shows/69.jpeg',
     price: 160.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 70,
@@ -636,7 +636,7 @@ const shoesList = [
     image: './shoes/70.jpeg',
     alt: './shows/70.jpeg',
     price: 160.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 71,
@@ -645,7 +645,7 @@ const shoesList = [
     image: './shoes/71.jpeg',
     alt: './shows/71.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 72,
@@ -654,7 +654,7 @@ const shoesList = [
     image: './shoes/72.jpeg',
     alt: './shows/72.jpeg',
     price: 160.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 73,
@@ -663,7 +663,7 @@ const shoesList = [
     image: './shoes/73.jpeg',
     alt: './shows/73.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 74,
@@ -672,7 +672,7 @@ const shoesList = [
     image: './shoes/74.jpeg',
     alt: './shows/74.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 75,
@@ -681,7 +681,7 @@ const shoesList = [
     image: './shoes/75.jpeg',
     alt: './shows/75.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 76,
@@ -690,7 +690,7 @@ const shoesList = [
     image: './shoes/76.jpeg',
     alt: './shows/76.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 77,
@@ -699,7 +699,7 @@ const shoesList = [
     image: './shoes/77.jpeg',
     alt: './shows/77.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 78,
@@ -708,7 +708,7 @@ const shoesList = [
     image: './shoes/78.jpeg',
     alt: './shows/78.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 79,
@@ -717,7 +717,7 @@ const shoesList = [
     image: './shoes/79.jpeg',
     alt: './shows/79.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 80,
@@ -726,7 +726,7 @@ const shoesList = [
     image: './shoes/80.jpeg',
     alt: './shows/80.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 81,
@@ -735,7 +735,7 @@ const shoesList = [
     image: './shoes/81.jpeg',
     alt: './shows/81.jpeg',
     price: 100.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 82,
@@ -744,7 +744,7 @@ const shoesList = [
     image: './shoes/82.jpeg',
     alt: './shows/82.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 83,
@@ -753,7 +753,7 @@ const shoesList = [
     image: './shoes/83.jpeg',
     alt: './shows/83.jpeg',
     price: 100.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 84,
@@ -762,7 +762,7 @@ const shoesList = [
     image: './shoes/84.jpeg',
     alt: './shows/84.jpeg',
     price: 100.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 85,
@@ -771,7 +771,7 @@ const shoesList = [
     image: './shoes/85.jpeg',
     alt: './shows/85.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 86,
@@ -780,7 +780,7 @@ const shoesList = [
     image: './shoes/86.jpeg',
     alt: './shows/86.jpeg',
     price: 100.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 87,
@@ -789,7 +789,7 @@ const shoesList = [
     image: './shoes/87.jpeg',
     alt: './shows/87.jpeg',
     price: 100.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 88,
@@ -798,7 +798,7 @@ const shoesList = [
     image: './shoes/88.jpeg',
     alt: './shows/88.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 89,
@@ -807,7 +807,7 @@ const shoesList = [
     image: './shoes/89.jpeg',
     alt: './shows/89.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 90,
@@ -816,7 +816,7 @@ const shoesList = [
     image: './shoes/90.jpeg',
     alt: './shows/90.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 91,
@@ -825,7 +825,7 @@ const shoesList = [
     image: './shoes/91.jpeg',
     alt: './shows/91.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 92,
@@ -834,7 +834,7 @@ const shoesList = [
     image: './shoes/92.jpeg',
     alt: './shows/92.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 93,
@@ -843,7 +843,7 @@ const shoesList = [
     image: './shoes/93.jpeg',
     alt: './shows/93.jpeg',
     price: 100.00,
-    method: 'avista',
+    method: 'à vista',
   }, 
   {
     id: 94,
@@ -852,6 +852,6 @@ const shoesList = [
     image: './shoes/94.jpeg',
     alt: './shows/94.jpeg',
     price: 120.00,
-    method: 'avista',
+    method: 'à vista',
   }
 ]
