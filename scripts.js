@@ -22,6 +22,4 @@ shoesList.map((shoes) => {
     itemsList += item
 })
 
-console.log(productsSectionEl);
-
 productsSectionEl.insertAdjacentHTML( 'afterbegin', itemsList )
