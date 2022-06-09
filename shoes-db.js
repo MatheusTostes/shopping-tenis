@@ -389,7 +389,7 @@ const shoesList = [
   {
     id: 43,
     name: 43,
-    mark: 'outros',
+    mark: 'new balance',
     image: './shoes/43.jpeg',
     alt: './shows/43.jpeg',
     price: 120.00,
@@ -443,7 +443,7 @@ const shoesList = [
   {
     id: 49,
     name: 49,
-    mark: 'outros',
+    mark: 'new balance',
     image: './shoes/49.jpeg',
     alt: './shows/49.jpeg',
     price: 120.00,
@@ -668,7 +668,7 @@ const shoesList = [
   {
     id: 74,
     name: 74,
-    mark: 'outros',
+    mark: 'reserva',
     image: './shoes/74.jpeg',
     alt: './shows/74.jpeg',
     price: 120.00,
@@ -713,7 +713,7 @@ const shoesList = [
   {
     id: 79,
     name: 79,
-    mark: 'outros',
+    mark: 'reserva',
     image: './shoes/79.jpeg',
     alt: './shows/79.jpeg',
     price: 120.00,
