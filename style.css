@@ -64,6 +64,7 @@ header {
   position: fixed;
   z-index: 1;
   background-color: rgb(249, 249, 249);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.156);
   width: 100%;
   padding: 1em 0;
   display: flex;
@@ -71,7 +72,6 @@ header {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.156);
 }
 
 header .logo, footer .logo  {
@@ -283,7 +283,11 @@ footer .info {
 }
 
 nav {
-  padding: 11em 0 0 6vw;
+  background-color: rgb(249, 249, 249);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.156);
+  border-radius: 5px;
+  padding: 2em 2vw;
+  margin: 9em 0 0 4vw;
   position: fixed;
   z-index: 2;
   display: flex;
@@ -349,9 +353,8 @@ nav li:hover {
 
   nav {
     width: 100%;
-    padding-top: 0em;
-    padding-left: 0;
-    margin-top: 6.5em;
+    padding: 0em;
+    margin: 6.5em 0 0 0;
     z-index: 1;
     background-color: rgb(249, 249, 249);
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.156);
