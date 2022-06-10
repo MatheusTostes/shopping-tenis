@@ -9,7 +9,7 @@ const populateNav = () => {
     const filter = 
     `
     <li onclick=filterMark("${mark}")>
-      ${mark.replace('-', ' ')}
+      <p class='filter-name'>${mark.replace('-', ' ')}</p>
     </li>
     `
     filtersList += filter
@@ -19,8 +19,6 @@ const populateNav = () => {
 }
 
 const filterMark = (mark) => {
-  console.log(mark);
-
   productsSectionEl.innerHTML = ''
   let itemsList = ''
 

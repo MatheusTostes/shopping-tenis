@@ -58,10 +58,11 @@ nav ::-webkit-scrollbar-thumb:hover {
 }
 
 body {
+  /* height: 100vh; */
+  /* min-height: calc(100vh - 221px); */
   background-color: rgb(239, 239, 239);
   font-family: Roboto, sans-serif;
   color: rgba(0, 0, 0, 0.857);
-
 }
 
 header {
@@ -94,6 +95,7 @@ header p  {
 }
 
 .products {
+  min-height: 50vh;
   margin: auto;
   padding-top: 8em;
   width: 80vw;
@@ -225,6 +227,7 @@ header p  {
 } */
 
 footer {
+  /* margin-top: 50vh; */
   margin-bottom: 2em;
   width: 100%;
   display: flex;
@@ -299,6 +302,7 @@ nav {
   gap: 1em;
   justify-content: center;
   align-items: center;
+  flex-wrap: nowrap;
 }
 
 nav h3 {
@@ -330,6 +334,10 @@ nav li:hover {
   color: rgb(244, 244, 244);
   background-color: rgb(19, 19, 19);
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.281);
+}
+
+nav .filter-name {
+  white-space: nowrap;
 }
 
 /* .nike {
